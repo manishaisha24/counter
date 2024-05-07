@@ -1,0 +1,29 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
+h1{
+    background-color: bisque;
+    border-color: antiquewhite;
+    font-size: 5em;
+    text-align: center;
+    margin: 10px 5em;
+    
+}
+.buttons{
+    margin-left: 36%;
+}
+button{
+    margin: 15px;
+    padding: 6px 16px;
+    background-color: rgb(46, 248, 248);
+    color: white;
+    border-color: rgb(208, 202, 202);
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(175, 252, 60);
+    color: rgb(64, 33, 238);
+    border-color: black;
+}
